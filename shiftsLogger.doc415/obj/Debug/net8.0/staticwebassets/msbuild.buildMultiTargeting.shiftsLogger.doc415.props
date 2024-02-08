@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\shiftsLogger.doc415.props" />
+</Project>

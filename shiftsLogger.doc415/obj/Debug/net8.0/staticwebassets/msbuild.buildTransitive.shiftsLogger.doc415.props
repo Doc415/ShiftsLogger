@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\shiftsLogger.doc415.props" />
+</Project>
